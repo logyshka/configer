@@ -1,0 +1,1 @@
+from configer.config import Config, types
